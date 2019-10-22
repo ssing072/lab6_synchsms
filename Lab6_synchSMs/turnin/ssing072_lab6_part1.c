@@ -16,8 +16,9 @@
  */
 
 #include <avr/io.h>
-#include <avr/interrupt.h>
+#include <arv/interrupt.h>
 #ifdef _SIMULATE_
+#include "simAVRHeader.h"
 #endif
 
 volatile unsigned char TimerFlag = 0;
