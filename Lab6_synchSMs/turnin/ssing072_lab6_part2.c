@@ -1,3 +1,21 @@
+/*
+ * Lab6.c
+ *
+ * Created: 10/22/2019 12:08:47 PM
+ * Author : ssury
+ */ 
+
+/*	Author: ssing072
+ *  Partner(s) Name: Neha Gupta
+ *	Lab Section:
+ *	Assignment: Lab #  Exercise #
+ *	Exercise Description: [optional - include for your own benefit]
+ *
+ *	I acknowledge all content contained herein, excluding template or example
+ *	code, is my own original work.
+ */
+
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #ifdef _SIMULATE_
