@@ -52,7 +52,7 @@ int main(void) {
         tmpB = ~tmpB;
         PORTC = tmpB;
         while(!TimerFlag);
-        TimerFlag = 0'
+        TimerFlag = 0;
     }
     return 1;
 }
